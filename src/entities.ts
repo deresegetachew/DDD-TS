@@ -63,3 +63,5 @@ class Product {
   #_groupdId: string;
   #_vendorId: string;
 }
+
+export {};
